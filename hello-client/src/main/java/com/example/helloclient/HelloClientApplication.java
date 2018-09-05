@@ -17,6 +17,7 @@ public class HelloClientApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HelloClientApplication.class, args);
+		System.out.println("MY GIT TEST --PUSH");
 	}
 }
 	
